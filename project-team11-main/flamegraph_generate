@@ -1,0 +1,9 @@
+#!/bin/bash
+
+perf record -F 99 -a sleep $1
+perf script > out.perf
+./stackcollapse-perf.pl out.perf > out.folded
+./flamegraph.pl out.folded > $2.svg
+
+rm out.perf
+rm out.folded

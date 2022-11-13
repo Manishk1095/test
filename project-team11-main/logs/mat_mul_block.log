@@ -1,0 +1,359 @@
+8
+Naive
+L2 Cache Miss: 2081273835 
+Multiplication finished in  10.17 s
+
+Faster
+L2 Cache Miss: 184176522 
+Multiplication finished in   3.52 s
+
+Block
+b: 8, b1: 21, c: 104, numBlk: 128
+L2 Cache Miss: 147839786 
+Multiplication finished in   4.44 s
+
+L2 Cache Miss: 478232928 
+Multiplication finished in   4.59 s
+
+8
+Naive
+L2 Cache Miss: 2099608131 
+Multiplication finished in  11.30 s
+
+Faster
+L2 Cache Miss: 185705012 
+Multiplication finished in   3.44 s
+
+Block
+b: 8, b1: 21, c: 104, numBlk: 128
+L2 Cache Miss: 146101813 
+Multiplication finished in   4.22 s
+
+L2 Cache Miss: 478126274 
+Multiplication finished in   4.49 s
+
+8
+Naive
+L2 Cache Miss: 2087669493 
+Multiplication finished in  11.84 s
+
+Faster
+L2 Cache Miss: 184607456 
+Multiplication finished in   3.62 s
+
+Block
+b: 8, b1: 21, c: 104, numBlk: 128
+L2 Cache Miss: 146757142 
+Multiplication finished in   4.33 s
+
+L2 Cache Miss: 477507484 
+Multiplication finished in   4.60 s
+
+16
+Naive
+L2 Cache Miss: 2103502341 
+Multiplication finished in  12.32 s
+
+Faster
+L2 Cache Miss: 184031583 
+Multiplication finished in   3.45 s
+
+Block
+b: 16, b1: 21, c: 104, numBlk: 64
+L2 Cache Miss: 64535305 
+Multiplication finished in   3.62 s
+
+L2 Cache Miss: 160426777 
+Multiplication finished in   4.30 s
+
+16
+Naive
+L2 Cache Miss: 2122930611 
+Multiplication finished in  10.63 s
+
+Faster
+L2 Cache Miss: 184225550 
+Multiplication finished in   3.43 s
+
+Block
+b: 16, b1: 21, c: 104, numBlk: 64
+L2 Cache Miss: 64285816 
+Multiplication finished in   3.79 s
+
+L2 Cache Miss: 159184879 
+Multiplication finished in   4.30 s
+
+16
+Naive
+L2 Cache Miss: 2117931316 
+Multiplication finished in  10.60 s
+
+Faster
+L2 Cache Miss: 184058351 
+Multiplication finished in   3.28 s
+
+Block
+b: 16, b1: 21, c: 104, numBlk: 64
+L2 Cache Miss: 69700402 
+Multiplication finished in   3.68 s
+
+L2 Cache Miss: 166128975 
+Multiplication finished in   5.00 s
+
+21
+Naive
+L2 Cache Miss: 2077658791 
+Multiplication finished in  13.04 s
+
+Faster
+L2 Cache Miss: 186432675 
+Multiplication finished in   4.97 s
+
+Block
+b: 21, b1: 21, c: 104, numBlk: 49
+L2 Cache Miss: 76884715 
+Multiplication finished in   4.37 s
+
+L2 Cache Miss: 146812215 
+Multiplication finished in   4.78 s
+
+21
+Naive
+L2 Cache Miss: 2074296837 
+Multiplication finished in  10.08 s
+
+Faster
+L2 Cache Miss: 184483396 
+Multiplication finished in   3.63 s
+
+Block
+b: 21, b1: 21, c: 104, numBlk: 49
+L2 Cache Miss: 70098036 
+Multiplication finished in   3.91 s
+
+L2 Cache Miss: 143947753 
+Multiplication finished in   4.61 s
+
+21
+Naive
+L2 Cache Miss: 2118417972 
+Multiplication finished in  10.91 s
+
+Faster
+L2 Cache Miss: 184213022 
+Multiplication finished in   3.62 s
+
+Block
+b: 21, b1: 21, c: 104, numBlk: 49
+L2 Cache Miss: 68989909 
+Multiplication finished in   4.00 s
+
+L2 Cache Miss: 142039428 
+Multiplication finished in   4.54 s
+
+32
+Naive
+L2 Cache Miss: 2103170243 
+Multiplication finished in  10.71 s
+
+Faster
+L2 Cache Miss: 184211638 
+Multiplication finished in   3.30 s
+
+Block
+b: 32, b1: 21, c: 104, numBlk: 32
+L2 Cache Miss: 99697128 
+Multiplication finished in   3.49 s
+
+L2 Cache Miss: 228432033 
+Multiplication finished in   4.58 s
+
+32
+Naive
+L2 Cache Miss: 2119987503 
+Multiplication finished in  10.25 s
+
+Faster
+L2 Cache Miss: 183996984 
+Multiplication finished in   3.27 s
+
+Block
+b: 32, b1: 21, c: 104, numBlk: 32
+L2 Cache Miss: 105091553 
+Multiplication finished in   3.46 s
+
+L2 Cache Miss: 260703083 
+Multiplication finished in   4.48 s
+
+32
+Naive
+L2 Cache Miss: 2119172241 
+Multiplication finished in  10.97 s
+
+Faster
+L2 Cache Miss: 184139197 
+Multiplication finished in   3.44 s
+
+Block
+b: 32, b1: 21, c: 104, numBlk: 32
+L2 Cache Miss: 94541385 
+Multiplication finished in   3.53 s
+
+L2 Cache Miss: 284615524 
+Multiplication finished in   4.73 s
+
+64
+Naive
+L2 Cache Miss: 2081652106 
+Multiplication finished in  11.03 s
+
+Faster
+L2 Cache Miss: 184469944 
+Multiplication finished in   3.61 s
+
+Block
+b: 64, b1: 21, c: 104, numBlk: 16
+L2 Cache Miss: 208537048 
+Multiplication finished in   3.77 s
+
+L2 Cache Miss: 985777500 
+Multiplication finished in   6.09 s
+
+64
+Naive
+L2 Cache Miss: 2096043393 
+Multiplication finished in  11.30 s
+
+Faster
+L2 Cache Miss: 184178064 
+Multiplication finished in   3.45 s
+
+Block
+b: 64, b1: 21, c: 104, numBlk: 16
+L2 Cache Miss: 212632121 
+Multiplication finished in   3.80 s
+
+L2 Cache Miss: 987042783 
+Multiplication finished in   6.05 s
+
+64
+Naive
+L2 Cache Miss: 2076723807 
+Multiplication finished in  10.60 s
+
+Faster
+L2 Cache Miss: 184317518 
+Multiplication finished in   3.65 s
+
+Block
+b: 64, b1: 21, c: 104, numBlk: 16
+L2 Cache Miss: 200120861 
+Multiplication finished in   3.48 s
+
+L2 Cache Miss: 997728723 
+Multiplication finished in   6.02 s
+
+104
+Naive
+L2 Cache Miss: 2074241862 
+Multiplication finished in  10.32 s
+
+Faster
+L2 Cache Miss: 186798666 
+Multiplication finished in   3.54 s
+
+Block
+b: 104, b1: 21, c: 104, numBlk: 10
+L2 Cache Miss: 299101980 
+Multiplication finished in   3.80 s
+
+L2 Cache Miss: 1593409056 
+Multiplication finished in   6.03 s
+
+104
+Naive
+L2 Cache Miss: 2099843071 
+Multiplication finished in  11.39 s
+
+Faster
+L2 Cache Miss: 184583547 
+Multiplication finished in   3.70 s
+
+Block
+b: 104, b1: 21, c: 104, numBlk: 10
+L2 Cache Miss: 301333961 
+Multiplication finished in   3.45 s
+
+L2 Cache Miss: 1611581082 
+Multiplication finished in   5.98 s
+
+104
+Naive
+L2 Cache Miss: 2071645571 
+Multiplication finished in  10.41 s
+
+Faster
+L2 Cache Miss: 184149057 
+Multiplication finished in   3.44 s
+
+Block
+b: 104, b1: 21, c: 104, numBlk: 10
+L2 Cache Miss: 304319308 
+Multiplication finished in   3.60 s
+
+L2 Cache Miss: 1575134095 
+Multiplication finished in   5.99 s
+
+128
+Naive
+L2 Cache Miss: 2091859518 
+Multiplication finished in  11.06 s
+
+Faster
+L2 Cache Miss: 184278448 
+Multiplication finished in   3.40 s
+
+Block
+b: 128, b1: 21, c: 104, numBlk: 8
+L2 Cache Miss: 311964317 
+Multiplication finished in   3.63 s
+
+L2 Cache Miss: 1907538353 
+Multiplication finished in   6.24 s
+
+128
+Naive
+L2 Cache Miss: 2073869933 
+Multiplication finished in  10.32 s
+
+Faster
+L2 Cache Miss: 184085340 
+Multiplication finished in   3.72 s
+
+Block
+b: 128, b1: 21, c: 104, numBlk: 8
+L2 Cache Miss: 310750349 
+Multiplication finished in   3.51 s
+
+L2 Cache Miss: 1903842796 
+Multiplication finished in   6.22 s
+
+128
+Naive
+L2 Cache Miss: 2099383531 
+Multiplication finished in  10.07 s
+
+Faster
+L2 Cache Miss: 184562531 
+Multiplication finished in   3.58 s
+
+Block
+b: 128, b1: 21, c: 104, numBlk: 8
+L2 Cache Miss: 309555319 
+Multiplication finished in   3.72 s
+
+L2 Cache Miss: 1877521539 
+Multiplication finished in   6.27 s
+
+
+
